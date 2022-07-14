@@ -1,2 +1,4 @@
-# Final-project-Javascript-E-comm-website
-Final project Javascript E-commarce website
+JS-SHOPLANE-Project
+
+DEU TO LAPTOP PROBLEM
+CANT SUBMIT PROJECT IN TIME
